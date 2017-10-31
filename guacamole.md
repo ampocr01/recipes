@@ -1,6 +1,6 @@
 # Ingredients
 -avocaudo
--lemon
+-lime
 -salt
 # Instructions
 
